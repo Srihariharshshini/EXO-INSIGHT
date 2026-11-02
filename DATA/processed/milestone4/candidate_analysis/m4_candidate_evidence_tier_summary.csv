@@ -1,0 +1,6 @@
+evidence_tier,planet_count
+Tier 5 — Optimistic HZ only,93
+Tier 4 — Conservative flux range; stellar class unverified,72
+Tier 1 — Class V + uncertainty interval inside conservative HZ,62
+Tier 3 — Class V + uncertainty unavailable/zero-valued,17
+Tier 2 — Class V + uncertainty overlaps HZ boundary,10

@@ -1,0 +1,11 @@
+column,missing,zero_count,negative_count,positive_count
+pl_rade,50,0,0,6401
+pl_bmasse,30,0,0,6421
+pl_eqt,540,0,0,5911
+pl_insol,596,46,0,5809
+pl_orbper,354,0,0,6097
+pl_orbsmax,495,0,0,5956
+st_teff,307,0,0,6144
+st_rad,332,0,0,6119
+st_mass,9,0,0,6442
+sy_dist,28,0,0,6423

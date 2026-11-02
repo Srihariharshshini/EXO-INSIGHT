@@ -1,0 +1,6 @@
+insol_uncertainty_assessment,planet_count
+Reported interval outside conservative HZ,4518
+Uncertainty unavailable or zero-valued in archive,1718
+Entire reported interval within conservative HZ,123
+Uncertainty interval overlaps conservative HZ boundary,57
+Not assessed — host Teff outside model range or missing,35

@@ -1,0 +1,47 @@
+pl_name,hostname,pl_insol,pl_insolerr1,pl_insolerr2,pl_insollim,pl_eqt,st_teff,st_spectype,archive_limit_flag_interpretation
+1RXS J160929.1-210524 b,1RXS J160929.1-210524,0.0,,,0.0,1700.0,4060.0,K7 V,Archive flag 0 — consult current NASA column documentation
+2M0437 b,2MASS J04372171+2651014,0.0,0.0,0.0,0.0,1450.0,3100.0,M V,Archive flag 0 — consult current NASA column documentation
+2MASS J01225093-2439505 b,2MASS J01225093-2439505,0.0,0.0,0.0,0.0,1600.0,3530.0,M3.5 V,Archive flag 0 — consult current NASA column documentation
+2MASS J02192210-3925225 b,2MASS J02192210-3925225,0.0,0.0,0.0,0.0,6.27,3064.0,M6,Archive flag 0 — consult current NASA column documentation
+2MASS J0249-0557 c,2MASS J0249-0557 A,0.0,0.0,0.0,0.0,1723.0,2859.0,M6 V,Archive flag 0 — consult current NASA column documentation
+2MASS J03590986+2009361 b,2MASS J03590986+2009361,0.0,0.0,0.0,0.0,2369.0,2943.0,,Archive flag 0 — consult current NASA column documentation
+2MASS J04414489+2301513 b,2MASS J04414489+2301513,0.0,,,0.0,17.6,2936.0,M8.5,Archive flag 0 — consult current NASA column documentation
+2MASS J11550485-7919108 b,2MASS J11550485-7919108,0.0,0.0,0.0,0.0,2506.0,3021.0,,Archive flag 0 — consult current NASA column documentation
+2MASS J12073346-3932539 b,2MASS J12073346-3932539,0.0,0.0,0.0,0.0,1163.0,2825.0,M8,Archive flag 0 — consult current NASA column documentation
+2MASS J21252752-8138278 b,2MASS J21252752-8138278,0.0,0.0,0.0,0.0,1616.0,3592.0,,Archive flag 0 — consult current NASA column documentation
+2MASS J22362452+4751425 b,2MASS J22362452+4751425,0.0,0.0,0.0,0.0,10.3,4045.0,K7 V,Archive flag 0 — consult current NASA column documentation
+2MASS J22501512+2325342 b,2MASS J22501512+2325342,0.0,0.0,0.0,0.0,1600.0,3352.0,M3,Archive flag 0 — consult current NASA column documentation
+AB Pic b,AB Pic,0.0,,,0.0,15.8,5285.0,K2 V,Archive flag 0 — consult current NASA column documentation
+BD+60 1417 b,BD+60 1417,0.0,,,0.0,1303.0,4993.0,K0,Archive flag 0 — consult current NASA column documentation
+CFHTWIR-Oph 98 b,CFHTWIR-Oph 98 A,0.0,0.0,0.0,0.0,1800.0,2320.0,M9-L1,Archive flag 0 — consult current NASA column documentation
+COCONUTS-2 b,COCONUTS-2 A,0.0,0.0,0.0,0.0,493.0,3552.0,M3 V,Archive flag 0 — consult current NASA column documentation
+CT Cha b,CT Cha,0.0,,,0.0,2600.0,4403.0,K5e,Archive flag 0 — consult current NASA column documentation
+DH Tau b,DH Tau,0.0,,,0.0,2200.0,4371.0,M0.5,Archive flag 0 — consult current NASA column documentation
+FU Tau b,FU Tau,0.0,,,0.0,2375.0,2838.0,M7.25,Archive flag 0 — consult current NASA column documentation
+G 196-3 b,G 196-3,0.0,0.0,0.0,0.0,1670.0,3517.0,,Archive flag 0 — consult current NASA column documentation
+GJ 900 b,GJ 900 A,0.0,,,0.0,1.48,3976.0,K7,Archive flag 0 — consult current NASA column documentation
+GSC 06214-00210 b,GSC 06214-00210,0.0,0.0,0.0,0.0,2300.0,4200.0,K7,Archive flag 0 — consult current NASA column documentation
+GU Psc b,GU Psc,0.0,0.0,0.0,0.0,1050.0,4031.81,M3,Archive flag 0 — consult current NASA column documentation
+HD 106906 b,HD 106906,0.0,,,0.0,1800.0,6516.0,F5 V,Archive flag 0 — consult current NASA column documentation
+HD 203030 b,HD 203030,0.0,0.0,0.0,0.0,1040.0,5603.0,G8 V,Archive flag 0 — consult current NASA column documentation
+HD 284149 AB b,HD 284149 A,0.0,0.0,0.0,0.0,2395.0,6035.0,,Archive flag 0 — consult current NASA column documentation
+HIP 78530 b,HIP 78530,0.0,0.0,0.0,0.0,2700.0,10500.0,B9 V,Archive flag 0 — consult current NASA column documentation
+HN Peg b,HN Peg,0.0,0.0,0.0,0.0,10.77,6186.0,G0 V,Archive flag 0 — consult current NASA column documentation
+KOINTREAU-3 b,ISO-Oph 96,0.0,,,0.0,8.74,3920.0,K6-M1,Archive flag 0 — consult current NASA column documentation
+LP 261-75 b,LP 261-75 A,0.0,0.0,0.0,0.0,1500.0,3138.0,M4.5 V,Archive flag 0 — consult current NASA column documentation
+Luhman 16 b,Luhman 16 A,0.0,0.0,0.0,0.0,,,,Archive flag 0 — consult current NASA column documentation
+Oph 11 b,Oph 11,0.0,0.0,0.0,0.0,2175.0,2375.0,M9,Archive flag 0 — consult current NASA column documentation
+ROXs 12 b,ROXs 12,0.0,0.0,0.0,0.0,13.23,3850.0,M0,Archive flag 0 — consult current NASA column documentation
+ROXs 42 B b,ROXs 42 B,0.0,,,0.0,1975.0,3433.0,M0,Archive flag 0 — consult current NASA column documentation
+Ross 458 c,Ross 458,0.0,,,0.0,4.32,3965.42,M2,Archive flag 0 — consult current NASA column documentation
+TWA 7 b,TWA 7,0.0,,,0.0,316.0,3509.0,,Archive flag 0 — consult current NASA column documentation
+TYC 8998-760-1 b,TYC 8998-760-1,0.0,0.0,0.0,0.0,2638.0,4573.0,K3 IV,Archive flag 0 — consult current NASA column documentation
+TYC 8998-760-1 c,TYC 8998-760-1,0.0,,,0.0,1240.0,4573.0,K3 IV,Archive flag 0 — consult current NASA column documentation
+UCAC3 113-933 b,UCAC3 113-933,0.0,,,0.0,1.79,3864.0,M0,Archive flag 0 — consult current NASA column documentation
+USco CTIO 108 b,USco CTIO 108,0.0,,,0.0,2.96,2700.0,M7,Archive flag 0 — consult current NASA column documentation
+USco1556 b,USco1556 A,0.0,0.0,0.0,0.0,2240.0,3410.0,M3.0 V,Archive flag 0 — consult current NASA column documentation
+USco1621 b,USco1621 A,0.0,0.0,0.0,0.0,2270.0,3460.0,M2.5 V,Archive flag 0 — consult current NASA column documentation
+VHS J125601.92-125723.9 b,VHS J125601.92-125723.9,0.0,0.0,0.0,0.0,1194.0,2620.0,M7.5,Archive flag 0 — consult current NASA column documentation
+WISEP J121756.91+162640.2 A b,WISEP J121756.91+162640.2 A,0.0,,,0.0,450.0,575.0,T8.5,Archive flag 0 — consult current NASA column documentation
+WISPIT 1 b,WISPIT 1,0.0,,,0.0,12.94,4670.0,K4 V,Archive flag 0 — consult current NASA column documentation
+WISPIT 1 c,WISPIT 1,0.0,,,0.0,8.21,4670.0,K4 V,Archive flag 0 — consult current NASA column documentation

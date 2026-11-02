@@ -1,0 +1,9 @@
+hz_screening_category,planet_count,percentage
+Outside optimistic HZ flux range,5468,84.76
+Not classified — insufficient or out-of-range evidence,596,9.24
+Within optimistic HZ only,93,1.44
+Conservative HZ candidate — Class V indicated,89,1.38
+Within conservative HZ flux range — stellar class unverified,72,1.12
+Not classified — host Teff outside model range or missing,63,0.98
+Not classified — zero insolation requires source review,46,0.71
+Review — evolved-star class indicated,24,0.37

@@ -1,0 +1,48 @@
+{
+  "source": "Kopparapu et al. (2014), ApJL 787, L29",
+  "doi": "10.1088/2041-8205/787/2/L29",
+  "model": "1 Earth-mass; runaway greenhouse inner edge; maximum greenhouse outer edge",
+  "reference_teff_K": 5780.0,
+  "valid_teff_range_K": [
+    2600.0,
+    7200.0
+  ],
+  "coefficients": {
+    "runaway_greenhouse": [
+      1.107,
+      0.0001332,
+      1.58e-08,
+      -8.308e-12,
+      -1.931e-15
+    ],
+    "maximum_greenhouse": [
+      0.356,
+      6.171e-05,
+      1.698e-09,
+      -3.198e-12,
+      -5.575e-16
+    ],
+    "recent_venus": [
+      1.776,
+      0.0002136,
+      2.533e-08,
+      -1.332e-11,
+      -3.097e-15
+    ],
+    "early_mars": [
+      0.32,
+      5.547e-05,
+      1.526e-09,
+      -2.874e-12,
+      -5.011e-16
+    ]
+  },
+  "primary_screening_variable": "pl_insol (Earth incident-flux units)",
+  "complementary_variable": "pl_eqt (no universal cutoff applied)",
+  "limitations": [
+    "HZ membership is not proof of habitability or life",
+    "main-sequence status is only screened using available spectral-type metadata",
+    "zero and missing insolation are not classified",
+    "ML target is a protocol-derived pseudo-label, not independent ground truth"
+  ]
+}

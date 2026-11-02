@@ -1,0 +1,16 @@
+column,missing_count,treatment,reason
+pl_name,0,Retain as missing; no imputation in this stage,Avoid introducing unsupported values into scientific measurements
+hostname,0,Retain as missing; no imputation in this stage,Avoid introducing unsupported values into scientific measurements
+discoverymethod,0,Retain as missing; no imputation in this stage,Avoid introducing unsupported values into scientific measurements
+disc_year,0,Retain as missing; no imputation in this stage,Avoid introducing unsupported values into scientific measurements
+pl_rade,50,Retain as missing; no imputation in this stage,Avoid introducing unsupported values into scientific measurements
+pl_bmasse,30,Retain as missing; no imputation in this stage,Avoid introducing unsupported values into scientific measurements
+pl_eqt,540,Retain as missing; no imputation in this stage,Avoid introducing unsupported values into scientific measurements
+pl_insol,596,Retain as missing; no imputation in this stage,Avoid introducing unsupported values into scientific measurements
+pl_orbper,354,Retain as missing; no imputation in this stage,Avoid introducing unsupported values into scientific measurements
+pl_orbsmax,495,Retain as missing; no imputation in this stage,Avoid introducing unsupported values into scientific measurements
+st_teff,307,Retain as missing; no imputation in this stage,Avoid introducing unsupported values into scientific measurements
+st_rad,332,Retain as missing; no imputation in this stage,Avoid introducing unsupported values into scientific measurements
+st_mass,9,Retain as missing; no imputation in this stage,Avoid introducing unsupported values into scientific measurements
+sy_dist,28,Retain as missing; no imputation in this stage,Avoid introducing unsupported values into scientific measurements
+pl_bmassprov,0,Retain as missing; no imputation in this stage,Avoid introducing unsupported values into scientific measurements

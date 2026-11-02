@@ -1,0 +1,63 @@
+pl_name,hostname,pl_insol,insol_uncertainty_assessment,pl_eqt,pl_bmasse,pl_rade,pl_bmassprov,pl_orbper,orbital_period_years,pl_orbsmax,st_teff,st_spectype,sy_dist
+16 Cyg B b,16 Cyg B,0.454,Entire reported interval within conservative HZ,228.76,565.7374,13.5,Msini,798.5,2.186173853524983,1.66,5750.0,G3 V,21.1397
+55 Cnc B c,55 Cnc B,0.4613,Entire reported interval within conservative HZ,230.04,5.3,2.16,Msini,33.747,0.09239425051334703,0.13,3286.0,M4.5 V,12.4773
+55 Cnc f,55 Cnc,0.9879,Entire reported interval within conservative HZ,277.07,44.812,7.59,Mass,260.58,0.7134291581108829,0.802,5198.0,G8 V,12.5855
+BD-06 1339 c,BD-06 1339,0.5024,Entire reported interval within conservative HZ,261.91,53.0,8.38,Msini,125.94,0.34480492813141683,0.435,4324.0,K7/M0 V,20.2695
+BD-08 2823 c,BD-08 2823,0.5117,Entire reported interval within conservative HZ,233.85,104.0,12.5,Msini,237.6,0.6505133470225872,0.68,4746.0,K3 V,41.3342
+BEBOP-4 AB b,BEBOP-4 A,0.5477,Entire reported interval within conservative HZ,239.44,8358.8871041,,Mass,1823.5,4.992470910335387,3.634,5701.43,G3 V,234.294
+GJ 1002 b,GJ 1002,0.67,Entire reported interval within conservative HZ,230.9,1.08,1.03,Msini,10.3465,0.02832717316906229,0.0457,3024.0,M5.5 V,4.84867
+GJ 1002 c,GJ 1002,0.257,Entire reported interval within conservative HZ,181.7,1.36,1.1,Msini,21.202,0.05804791238877482,0.0738,3024.0,M5.5 V,4.84867
+GJ 1061 d,GJ 1061,0.6,Entire reported interval within conservative HZ,242.03,1.67,1.16,Mass,13.066,0.035772758384668035,0.054,2953.0,M5.5 V,3.67278
+GJ 251 c,GJ 251,0.404,Entire reported interval within conservative HZ,216.0,3.88,1.8,Msini,53.647,0.14687748117727584,0.196,3342.0,M3.0 V,5.58057
+GJ 357 d,GJ 357,0.38,Entire reported interval within conservative HZ,219.6,6.1,2.34,Msini,55.661,0.1523915126625599,0.204,3505.0,M2.5 V,9.44181
+GJ 667 C f,GJ 667 C,0.5633,Entire reported interval within conservative HZ,,2.7,1.45,Msini,39.026,0.1068473648186174,0.156,3350.0,M1.5 V,7.24396
+HD 10180 g,HD 10180,0.7317,Entire reported interval within conservative HZ,251.27,3375.33768234,,Mass,604.67,1.6554962354551677,1.427,5911.0,G1 V,38.9607
+HD 10697 b,HD 10697,0.7124,Entire reported interval within conservative HZ,259.25,1825.2885414,12.8,Mass,1075.3799,2.9442297056810403,2.051,5641.0,G3 V,33.1205
+HD 109286 b,HD 109286,0.709,Entire reported interval within conservative HZ,259.4,950.30693693,13.2,Msini,520.1,1.423956194387406,1.259,5694.0,G4 V,55.4156
+HD 111998 b,HD 111998,0.8918,Entire reported interval within conservative HZ,275.49,1525.5763536,12.9,Mass,810.0,2.217659137577002,1.91,6557.0,F6 V,33.2237
+HD 114729 b,HD 114729,0.617,Entire reported interval within conservative HZ,237.89,262.20975,13.9,Msini,1121.79,3.0712936344969197,2.067,5844.0,G0 V,37.8063
+HD 125612 b,HD 125612,0.6309,Entire reported interval within conservative HZ,253.38,945.22168242,13.2,Msini,557.69994,1.5268992197125255,1.349,5900.0,G3 V,57.6207
+HD 128356 b,HD 128356,0.4756,Entire reported interval within conservative HZ,232.36,282.8687,13.9,Msini,298.2,0.8164271047227926,0.87,4875.0,K3 V,26.1548
+HD 13167 b,HD 13167,0.5428,Entire reported interval within conservative HZ,208.79,1052.0173,13.1,Msini,2613.0,7.15400410677618,4.1,5671.0,G3 V,148.934
+HD 132406 b,HD 132406,0.4641,Entire reported interval within conservative HZ,228.73,1887.90073758,12.8,Mass,908.0,2.485968514715948,1.98,5766.0,G0 V,70.7832
+HD 133131 A b,HD 133131 A,0.4642,Entire reported interval within conservative HZ,227.72,451.3186,13.6,Msini,649.0,1.7768651608487338,1.44,5799.0,G2 V,51.4736
+HD 136118 b,HD 136118,0.684,Entire reported interval within conservative HZ,249.62,4164.18778851,12.3,Mass,1187.59765,3.2514651608487335,2.327,6097.0,F7 V,51.4359
+HD 141937 b,HD 141937,0.4436,Entire reported interval within conservative HZ,231.49,3591.4609991,12.4,Mass,662.37,1.81347022587269,1.54,5870.0,G1 V,33.3622
+HD 147379 b,HD 147379,0.7847,Entire reported interval within conservative HZ,276.66,21.6,4.94,Msini,86.58,0.2370431211498973,0.3193,4090.0,M0.0 V,10.7643
+HD 159868 b,HD 159868,0.668,Entire reported interval within conservative HZ,255.69,704.94694,13.3,Msini,1184.1,3.241889117043121,2.32,5534.0,G5 V,55.8503
+HD 165155 b,HD 165155,0.5482,Entire reported interval within conservative HZ,239.9,918.5287,13.2,Msini,434.5,1.189596167008898,1.13,5426.0,G8 V,63.3574
+HD 17674 b,HD 17674,0.7946,Entire reported interval within conservative HZ,259.52,276.5121,13.9,Msini,623.8,1.7078713210130048,1.42,5904.0,G0 V,44.4264
+HD 180617 b,HD 180617,0.2751,Entire reported interval within conservative HZ,201.8,12.214,3.53,Msini,105.911,0.289968514715948,0.343,3534.0,M2.5 V,5.91059
+HD 196885 A b,HD 196885 A,0.4271,Entire reported interval within conservative HZ,224.21,819.97,13.2,Msini,1333.0,3.649555099247091,2.37,6254.0,F8 V,34.1692
+HD 197037 b,HD 197037,0.4042,Entire reported interval within conservative HZ,216.67,251.0,13.9,Msini,1035.7,2.8355920602327176,2.07,6150.0,F7 V,33.1944
+HD 20782 b,HD 20782,0.6863,Entire reported interval within conservative HZ,253.34,472.83,13.6,Msini,597.0643,1.6346729637234771,1.3649,5782.13,G1.5 V,35.9864
+HD 20794 f,HD 20794,0.3746,Entire reported interval within conservative HZ,214.52,5.82,2.28,Msini,647.6,1.7730321697467488,1.3541,5368.0,G6 V,6.00278
+HD 210193 b,HD 210193,0.5142,Entire reported interval within conservative HZ,235.69,153.1,14.3,Msini,649.918,1.7793785078713211,1.487,5790.0,G3 V,42.2029
+HD 213240 b,HD 213240,0.7524,Entire reported interval within conservative HZ,257.7,1655.88600047,12.8,Mass,882.70001,2.416700917180014,1.89,5979.0,G0/1 V,40.8707
+HD 216435 b,HD 216435,0.5501,Entire reported interval within conservative HZ,242.57,400.4,13.7,Msini,1311.0,3.589322381930185,2.56,5999.0,G0 V,32.9834
+HD 222582 b,HD 222582,0.7253,Entire reported interval within conservative HZ,256.39,2660.2371,12.6,Msini,572.38,1.567091033538672,1.34,5790.0,G5 V,42.1586
+HD 23079 b,HD 23079,0.5273,Entire reported interval within conservative HZ,237.47,845.42356262,13.2,Msini,735.74,2.014346338124572,1.6,5994.0,F9.5 V,33.4591
+HD 23127 b,HD 23127,0.5038,Entire reported interval within conservative HZ,223.4,485.32641,13.5,Msini,1211.17,3.3160027378507873,2.37,5843.0,G2 V,93.8555
+HD 27969 b,HD 27969,0.76,Entire reported interval within conservative HZ,261.0,1525.5763536,12.9,Msini,654.5,1.7919233401779604,1.552,5966.0,G0 V,67.9328
+HD 34445 b,HD 34445,0.4691,Entire reported interval within conservative HZ,231.47,260.6206,13.9,Msini,1049.0,2.8720054757015743,2.07,5879.0,G0 V,46.0907
+HD 34445 f,HD 34445,0.8442,Entire reported interval within conservative HZ,266.14,37.9,6.88,Msini,676.8,1.8529774127310061,1.543,5836.0,G0 V,46.0907
+HD 40307 g,HD 40307,0.6378,Entire reported interval within conservative HZ,255.0,7.1,2.56,Msini,197.8,0.5415468856947296,0.6,4956.0,K2.5 V,12.9363
+HD 45350 b,HD 45350,0.375,Entire reported interval within conservative HZ,217.81,568.89,13.5,Msini,963.6,2.638193018480493,1.92,5566.0,G5 V,46.8733
+HD 45364 c,HD 45364,0.7829,Entire reported interval within conservative HZ,261.82,174.48779544,14.2,Msini,345.43,0.9457357973990418,0.902,5466.0,K0 V,34.354
+HD 564 b,HD 564,0.7254,Entire reported interval within conservative HZ,261.1,104.88,12.5,Msini,492.3,1.3478439425051334,1.2,5902.0,G2/G3 V,51.1659
+HD 63765 b,HD 63765,0.627,Entire reported interval within conservative HZ,246.9,168.4499,14.2,Msini,358.0,0.9801505817932923,0.94,5449.0,G9 V,32.5376
+HD 65216 b,HD 65216,0.4127,Entire reported interval within conservative HZ,223.1,708.75734761,13.3,Mass,577.9,1.5822039698836412,1.31,5645.0,G5 V,35.1205
+HD 86264 b,HD 86264,0.5987,Entire reported interval within conservative HZ,247.01,3117.26101586,12.5,Mass,1488.79123,4.076088240930869,2.763,6210.0,F7 V,67.8107
+HN Lib b,HN Lib,0.503,Entire reported interval within conservative HZ,234.4,5.46,2.2,Msini,36.116,0.09888021902806297,0.1417,3347.0,M4.0 V,6.24442
+K2-288 B b,K2-288 B,0.4368,Entire reported interval within conservative HZ,226.36,4.27,1.9,M-R relationship,31.393463,0.08595061738535249,0.164,3341.0,M3 V,65.6138
+K2-312 c,HD 80653,0.4596,Entire reported interval within conservative HZ,229.0,1681.31227303,12.8,Msini,871.32,2.3855441478439428,1.882,5959.0,G0 V,109.86
+Kepler-22 b,Kepler-22,1.013,Entire reported interval within conservative HZ,279.0,9.1,2.1,Mass,289.863876,0.7936040410677618,0.812,5596.0,G5 V,194.642
+Kepler-296 f,Kepler-296,0.62,Entire reported interval within conservative HZ,274.0,3.89,1.8,M-R relationship,63.33627,0.17340525667351128,0.255,3740.0,M2 V,167.0
+LHS 1140 b,LHS 1140,0.43,Entire reported interval within conservative HZ,226.0,5.6,1.73,Mass,24.73723,0.06772684462696783,0.0946,3096.0,M4.5 V,14.9861
+Proxima Cen b,Proxima Cen,0.641,Entire reported interval within conservative HZ,218.0,1.055,1.02,Msini,11.18465,0.030621902806297056,0.04848,2900.0,M5.5 V,1.30119
+TOI-1288 c,TOI-1288,0.6114,Entire reported interval within conservative HZ,245.88,85.7,11.1,Msini,416.0,1.1389459274469542,1.07,5388.0,G V,114.865
+TOI-1694 c,TOI-1694,0.4016,Entire reported interval within conservative HZ,222.0,316.55709337,13.8,Msini,386.25,1.057494866529774,0.974,5005.0,K2 V - K3 V,124.68
+TOI-199 c,TOI-199,0.7048,Entire reported interval within conservative HZ,255.43,88.99195396,11.4,Mass,273.69,0.7493223819301847,0.807,5255.0,G9 V,102.27
+Teegarden's Star c,Teegarden's Star,0.35,Entire reported interval within conservative HZ,209.0,1.05,1.02,Msini,11.416,0.03125530458590007,0.0455,3034.0,M7.0 V,3.83078
+Wolf 1069 b,Wolf 1069,0.652,Entire reported interval within conservative HZ,250.1,1.26,1.08,Msini,15.564,0.042611909650924026,0.0672,3158.0,M5.0 V,9.58341
+ups And d,ups And,0.5308,Entire reported interval within conservative HZ,233.9,3257.74117175,12.5,Mass,1276.46,3.494757015742642,2.51329,6156.77,F8 V,13.4054

@@ -1,0 +1,255 @@
+pl_name,hostname,hz_screening_category,pl_orbper,orbital_period_years,pl_orbsmax,pl_insol
+LP 890-9 c,LP 890-9,Conservative HZ candidate — Class V indicated,8.457463,0.023155271731690623,0.03984,0.906
+GJ 1002 b,GJ 1002,Conservative HZ candidate — Class V indicated,10.3465,0.02832717316906229,0.0457,0.67
+Proxima Cen b,Proxima Cen,Conservative HZ candidate — Class V indicated,11.18465,0.030621902806297056,0.04848,0.641
+Teegarden's Star c,Teegarden's Star,Conservative HZ candidate — Class V indicated,11.416,0.03125530458590007,0.0455,0.35
+GJ 1061 d,GJ 1061,Conservative HZ candidate — Class V indicated,13.066,0.035772758384668035,0.054,0.6
+Wolf 1069 b,Wolf 1069,Conservative HZ candidate — Class V indicated,15.564,0.042611909650924026,0.0672,0.652
+GJ 682 b,GJ 682,Conservative HZ candidate — Class V indicated,17.478,0.04785215605749487,0.08,0.3125
+GJ 422 b,GJ 422,Conservative HZ candidate — Class V indicated,20.129,0.05511019849418207,0.111,0.8928
+GJ 1002 c,GJ 1002,Conservative HZ candidate — Class V indicated,21.202,0.05804791238877482,0.0738,0.257
+GJ 3378 b,GJ 3378,Conservative HZ candidate — Class V indicated,21.45,0.05872689938398357,0.09673,0.91
+LHS 1140 b,LHS 1140,Conservative HZ candidate — Class V indicated,24.73723,0.06772684462696783,0.0946,0.43
+GJ 667 C c,GJ 667 C,Conservative HZ candidate — Class V indicated,28.14,0.07704312114989734,0.125,0.8774
+K2-288 B b,K2-288 B,Conservative HZ candidate — Class V indicated,31.393463,0.08595061738535249,0.164,0.4368
+55 Cnc B c,55 Cnc B,Conservative HZ candidate — Class V indicated,33.747,0.09239425051334703,0.13,0.4613
+HN Lib b,HN Lib,Conservative HZ candidate — Class V indicated,36.116,0.09888021902806297,0.1417,0.503
+TOI-700 d,TOI-700,Conservative HZ candidate — Class V indicated,37.423457,0.10245984120465434,0.1642,0.85
+GJ 667 C f,GJ 667 C,Conservative HZ candidate — Class V indicated,39.026,0.1068473648186174,0.156,0.5633
+Gliese 48 b,Gliese 48,Conservative HZ candidate — Class V indicated,39.6299,0.10850075290896646,0.1752,0.89
+GJ 887 d,GJ 887,Conservative HZ candidate — Class V indicated,50.77,0.13900068446269678,0.212,0.81
+GJ 251 c,GJ 251,Conservative HZ candidate — Class V indicated,53.647,0.14687748117727584,0.196,0.404
+GJ 357 d,GJ 357,Conservative HZ candidate — Class V indicated,55.661,0.1523915126625599,0.204,0.38
+GJ 667 C e,GJ 667 C,Conservative HZ candidate — Class V indicated,62.24,0.17040383299110198,0.213,0.3022
+Kepler-296 f,Kepler-296,Conservative HZ candidate — Class V indicated,63.33627,0.17340525667351128,0.255,0.62
+HD 147379 b,HD 147379,Conservative HZ candidate — Class V indicated,86.58,0.2370431211498973,0.3193,0.7847
+HD 180617 b,HD 180617,Conservative HZ candidate — Class V indicated,105.911,0.289968514715948,0.343,0.2751
+BD-06 1339 c,BD-06 1339,Conservative HZ candidate — Class V indicated,125.94,0.34480492813141683,0.435,0.5024
+GJ 514 b,GJ 514,Conservative HZ candidate — Class V indicated,140.43,0.384476386036961,0.422,0.28
+HIP 34222 b,HIP 34222,Conservative HZ candidate — Class V indicated,159.986,0.4380177960301163,0.492,0.3832
+HD 40307 g,HD 40307,Conservative HZ candidate — Class V indicated,197.8,0.5415468856947296,0.6,0.6378
+BD-08 2823 c,BD-08 2823,Conservative HZ candidate — Class V indicated,237.6,0.6505133470225872,0.68,0.5117
+55 Cnc f,55 Cnc,Conservative HZ candidate — Class V indicated,260.58,0.7134291581108829,0.802,0.9879
+Kepler-62 f,Kepler-62,Conservative HZ candidate — Class V indicated,267.291,0.7318028747433265,0.718,0.5
+BD+14 4559 b,BD+14 4559,Conservative HZ candidate — Class V indicated,268.94,0.7363175906913073,0.78,0.7867
+GJ 2126 b,GJ 2126,Conservative HZ candidate — Class V indicated,272.7,0.7466119096509239,0.71,0.2833
+TOI-199 c,TOI-199,Conservative HZ candidate — Class V indicated,273.69,0.7493223819301847,0.807,0.7048
+HD 191939 g,HD 191939,Conservative HZ candidate — Class V indicated,284.0,0.7775496235455168,0.812,0.99
+Kepler-22 b,Kepler-22,Conservative HZ candidate — Class V indicated,289.863876,0.7936040410677618,0.812,1.013
+HD 128356 b,HD 128356,Conservative HZ candidate — Class V indicated,298.2,0.8164271047227926,0.87,0.4756
+HD 43197 b,HD 43197,Conservative HZ candidate — Class V indicated,308.92072,0.8457788364134156,0.882,0.9377
+HD 45364 c,HD 45364,Conservative HZ candidate — Class V indicated,345.43,0.9457357973990418,0.902,0.7829
+HD 63765 b,HD 63765,Conservative HZ candidate — Class V indicated,358.0,0.9801505817932923,0.94,0.627
+HD 100777 b,HD 100777,Conservative HZ candidate — Class V indicated,383.0,1.0485968514715949,1.06,0.9345
+TOI-1694 c,TOI-1694,Conservative HZ candidate — Class V indicated,386.25,1.057494866529774,0.974,0.4016
+HD 142415 b,HD 142415,Conservative HZ candidate — Class V indicated,386.29999,1.0576317316906227,1.06,1.0219
+TOI-1288 c,TOI-1288,Conservative HZ candidate — Class V indicated,416.0,1.1389459274469542,1.07,0.6114
+HD 165155 b,HD 165155,Conservative HZ candidate — Class V indicated,434.5,1.189596167008898,1.13,0.5482
+HD 210277 b,HD 210277,Conservative HZ candidate — Class V indicated,442.19,1.2106502395619438,1.13,0.7275
+HD 221287 b,HD 221287,Conservative HZ candidate — Class V indicated,456.1,1.2487337440109514,1.25,1.0624
+HD 16760 b,HD 16760,Conservative HZ candidate — Class V indicated,466.08,1.2760574948665298,1.156,0.5388
+HD 564 b,HD 564,Conservative HZ candidate — Class V indicated,492.3,1.3478439425051334,1.2,0.7254
+HD 109286 b,HD 109286,Conservative HZ candidate — Class V indicated,520.1,1.423956194387406,1.259,0.709
+HD 4113 b,HD 4113,Conservative HZ candidate — Class V indicated,526.5239,1.441543874058864,1.28,0.744
+HD 125612 b,HD 125612,Conservative HZ candidate — Class V indicated,557.69994,1.5268992197125255,1.349,0.6309
+HD 222582 b,HD 222582,Conservative HZ candidate — Class V indicated,572.38,1.567091033538672,1.34,0.7253
+HD 65216 b,HD 65216,Conservative HZ candidate — Class V indicated,577.9,1.5822039698836412,1.31,0.4127
+HD 20782 b,HD 20782,Conservative HZ candidate — Class V indicated,597.0643,1.6346729637234771,1.3649,0.6863
+HD 10180 g,HD 10180,Conservative HZ candidate — Class V indicated,604.67,1.6554962354551677,1.427,0.7317
+HD 17674 b,HD 17674,Conservative HZ candidate — Class V indicated,623.8,1.7078713210130048,1.42,0.7946
+HD 20794 f,HD 20794,Conservative HZ candidate — Class V indicated,647.6,1.7730321697467488,1.3541,0.3746
+HD 133131 A b,HD 133131 A,Conservative HZ candidate — Class V indicated,649.0,1.7768651608487338,1.44,0.4642
+HD 210193 b,HD 210193,Conservative HZ candidate — Class V indicated,649.918,1.7793785078713211,1.487,0.5142
+HD 27969 b,HD 27969,Conservative HZ candidate — Class V indicated,654.5,1.7919233401779604,1.552,0.76
+HD 141937 b,HD 141937,Conservative HZ candidate — Class V indicated,662.37,1.81347022587269,1.54,0.4436
+HD 34445 f,HD 34445,Conservative HZ candidate — Class V indicated,676.8,1.8529774127310061,1.543,0.8442
+HD 23079 b,HD 23079,Conservative HZ candidate — Class V indicated,735.74,2.014346338124572,1.6,0.5273
+16 Cyg B b,16 Cyg B,Conservative HZ candidate — Class V indicated,798.5,2.186173853524983,1.66,0.454
+HD 111998 b,HD 111998,Conservative HZ candidate — Class V indicated,810.0,2.217659137577002,1.91,0.8918
+K2-312 c,HD 80653,Conservative HZ candidate — Class V indicated,871.32,2.3855441478439428,1.882,0.4596
+HD 213240 b,HD 213240,Conservative HZ candidate — Class V indicated,882.70001,2.416700917180014,1.89,0.7524
+HD 132406 b,HD 132406,Conservative HZ candidate — Class V indicated,908.0,2.485968514715948,1.98,0.4641
+HD 13908 c,HD 13908,Conservative HZ candidate — Class V indicated,931.0,2.5489390828199863,2.03,0.9705
+HD 181720 b,HD 181720,Conservative HZ candidate — Class V indicated,956.0,2.617385352498289,1.85,0.5671
+HD 45350 b,HD 45350,Conservative HZ candidate — Class V indicated,963.6,2.638193018480493,1.92,0.375
+HD 197037 b,HD 197037,Conservative HZ candidate — Class V indicated,1035.7,2.8355920602327176,2.07,0.4042
+HD 34445 b,HD 34445,Conservative HZ candidate — Class V indicated,1049.0,2.8720054757015743,2.07,0.4691
+HD 10697 b,HD 10697,Conservative HZ candidate — Class V indicated,1075.3799,2.9442297056810403,2.051,0.7124
+HD 114729 b,HD 114729,Conservative HZ candidate — Class V indicated,1121.79,3.0712936344969197,2.067,0.617
+HD 190647 b,HD 190647,Conservative HZ candidate — Class V indicated,1176.45,3.220944558521561,2.231,0.3978
+HD 159868 b,HD 159868,Conservative HZ candidate — Class V indicated,1184.1,3.241889117043121,2.32,0.668
+HD 136118 b,HD 136118,Conservative HZ candidate — Class V indicated,1187.59765,3.2514651608487335,2.327,0.684
+HD 23127 b,HD 23127,Conservative HZ candidate — Class V indicated,1211.17,3.3160027378507873,2.37,0.5038
+ups And d,ups And,Conservative HZ candidate — Class V indicated,1276.46,3.494757015742642,2.51329,0.5308
+HD 216435 b,HD 216435,Conservative HZ candidate — Class V indicated,1311.0,3.589322381930185,2.56,0.5501
+HD 196885 A b,HD 196885 A,Conservative HZ candidate — Class V indicated,1333.0,3.649555099247091,2.37,0.4271
+HD 28254 b,HD 28254,Conservative HZ candidate — Class V indicated,1333.0,3.649555099247091,2.45,0.3645
+HD 86264 b,HD 86264,Conservative HZ candidate — Class V indicated,1488.79123,4.076088240930869,2.763,0.5987
+HD 169830 c,HD 169830,Conservative HZ candidate — Class V indicated,1818.82339,4.9796670499657765,3.075,0.4856
+BEBOP-4 AB b,BEBOP-4 A,Conservative HZ candidate — Class V indicated,1823.5,4.992470910335387,3.634,0.5477
+HD 13167 b,HD 13167,Conservative HZ candidate — Class V indicated,2613.0,7.15400410677618,4.1,0.5428
+TOI-178 f,TOI-178,Within conservative HZ flux range — stellar class unverified,15.23335,0.04170663928815879,0.1039,0.6071
+TOI-715 b,TOI-715,Within conservative HZ flux range — stellar class unverified,19.288004,0.05280767693360712,0.083,0.67
+Kepler-1649 c,Kepler-1649,Within conservative HZ flux range — stellar class unverified,19.53527,0.053484654346338124,0.0649,0.75
+GJ 180 c,GJ 180,Within conservative HZ flux range — stellar class unverified,24.329,0.0666091718001369,0.129,0.7812
+GJ 876 c,GJ 876,Within conservative HZ flux range — stellar class unverified,30.0881,0.08237672826830938,0.12959,0.7384
+TOI-2257 b,TOI-2257,Within conservative HZ flux range — stellar class unverified,35.189346,0.09634317864476385,0.145,0.6703
+GJ 433 d,GJ 433,Within conservative HZ flux range — stellar class unverified,36.059,0.09872416153319644,0.178,0.6312
+Gl 725 B c,Gl 725 B,Within conservative HZ flux range — stellar class unverified,37.9,0.10376454483230664,0.139,0.4742
+Kepler-1652 b,Kepler-1652,Within conservative HZ flux range — stellar class unverified,38.09722,0.10430450376454484,0.1654,0.81
+GJ 687 b,GJ 687,Within conservative HZ flux range — stellar class unverified,38.142,0.10442710472279261,0.163,0.801
+GJ 1148 b,GJ 1148,Within conservative HZ flux range — stellar class unverified,41.38,0.11329226557152636,0.166,0.4906
+GJ 3293 d,GJ 3293,Within conservative HZ flux range — stellar class unverified,48.1345,0.13178507871321013,0.19394,0.59
+Kepler-705 b,Kepler-705,Within conservative HZ flux range — stellar class unverified,56.0560538,0.15347311101984942,0.232,0.729
+GJ 876 b,GJ 876,Within conservative HZ flux range — stellar class unverified,61.1166,0.16732813141683778,0.208317,0.2857
+Kepler-1628 b,Kepler-1628,Within conservative HZ flux range — stellar class unverified,76.378033,0.20911165776865162,0.2952,0.79
+TOI-904 c,TOI-904,Within conservative HZ flux range — stellar class unverified,83.9997,0.22997864476386037,0.312,0.5449
+Kepler-1229 b,Kepler-1229,Within conservative HZ flux range — stellar class unverified,86.828989,0.2377248158795346,0.3006,0.524
+Kepler-283 c,Kepler-283,Within conservative HZ flux range — stellar class unverified,92.743711,0.25391844216290216,0.341,0.949
+TOI-1338 b,TOI-1338 A,Within conservative HZ flux range — stellar class unverified,95.4001,0.26119123887748114,0.4607,0.9938
+Kepler-1058 b,Kepler-1058,Within conservative HZ flux range — stellar class unverified,110.96546,0.3038068720054757,0.3679,0.77
+Kepler-442 b,Kepler-442,Within conservative HZ flux range — stellar class unverified,112.3053,0.3074751540041068,0.409,0.66
+Kepler-1540 b,Kepler-1540,Within conservative HZ flux range — stellar class unverified,125.4131177,0.34336240301163584,0.4426,0.849
+Kepler-186 f,Kepler-186,Within conservative HZ flux range — stellar class unverified,129.9441,0.3557675564681725,0.432,0.3
+Kepler-1653 b,Kepler-1653,Within conservative HZ flux range — stellar class unverified,140.2524,0.38399014373716633,0.4706,0.98
+Kepler-1086 c,Kepler-1086,Within conservative HZ flux range — stellar class unverified,161.5163345,0.4422076235455168,0.503,0.519
+Kepler-1544 b,Kepler-1544,Within conservative HZ flux range — stellar class unverified,168.811174,0.4621798056125941,0.54465,0.833
+Kepler-1593 b,Kepler-1593,Within conservative HZ flux range — stellar class unverified,174.509835,0.47778188911704317,0.55494,0.889
+Kepler-1661 b,Kepler-1661,Within conservative HZ flux range — stellar class unverified,175.06,0.47928815879534564,0.633,0.88
+Kepler-443 b,Kepler-443,Within conservative HZ flux range — stellar class unverified,177.6693,0.48643203285420944,0.495,0.86
+Kepler-1554 b,Kepler-1554,Within conservative HZ flux range — stellar class unverified,198.088774,0.5423375058179329,0.59527,1.014
+Kepler-1143 c,Kepler-1143,Within conservative HZ flux range — stellar class unverified,210.630591,0.5766751293634497,0.6477,0.568
+Kepler-1868 b,Kepler-1868,Within conservative HZ flux range — stellar class unverified,211.0339966,0.5777795937029432,0.62348,0.5
+Kepler-1318 b,Kepler-1318,Within conservative HZ flux range — stellar class unverified,213.257663,0.5838676605065024,0.6085,0.492
+HD 218566 b,HD 218566,Within conservative HZ flux range — stellar class unverified,225.7,0.6179329226557152,0.69,0.7414
+Kepler-712 c,Kepler-712,Within conservative HZ flux range — stellar class unverified,226.89047,0.6211922518822725,0.66479,0.662
+Kepler-453 b,Kepler-453,Within conservative HZ flux range — stellar class unverified,240.503,0.6584613278576317,0.7903,0.9636
+Kepler-174 d,Kepler-174,Within conservative HZ flux range — stellar class unverified,247.35373,0.6772176043805613,0.677,0.53
+BD+55 362 b,BD+55 362,Within conservative HZ flux range — stellar class unverified,265.59,0.7271457905544148,0.78,0.7996
+Kepler-47 c,Kepler-47,Within conservative HZ flux range — stellar class unverified,303.227,0.8301902806297056,0.9638,0.9037
+BD+45 564 b,BD+45 564,Within conservative HZ flux range — stellar class unverified,307.88,0.8429295003422314,0.83,0.579
+Kepler-553 c,Kepler-553,Within conservative HZ flux range — stellar class unverified,328.24017,0.8986726078028747,0.898,0.589
+Kepler-1634 b,Kepler-1634,Within conservative HZ flux range — stellar class unverified,374.876239,1.0263552060232717,1.0525,0.544
+Kepler-452 b,Kepler-452,Within conservative HZ flux range — stellar class unverified,384.843,1.0536427104722794,1.046,1.1
+HD 28185 b,HD 28185,Within conservative HZ flux range — stellar class unverified,385.92,1.0565913757700205,1.034,0.9073
+Kepler-1600 b,Kepler-1600,Within conservative HZ flux range — stellar class unverified,386.370548,1.0578249089664613,0.98141,0.4
+HD 108874 b,HD 108874,Within conservative HZ flux range — stellar class unverified,394.48123,1.0800307460643395,1.04,0.923
+WASP-41 c,WASP-41,Within conservative HZ flux range — stellar class unverified,421.0,1.1526351813826146,1.07,0.5573
+HD 82943 b,HD 82943,Within conservative HZ flux range — stellar class unverified,441.47,1.2086789869952088,1.18306,1.117
+Kepler-1635 b,Kepler-1635,Within conservative HZ flux range — stellar class unverified,469.63111,1.2857799041752225,1.12664,0.4
+HIP 109384 b,HIP 109384,Within conservative HZ flux range — stellar class unverified,499.48,1.367501711156742,1.134,0.3732
+TOI-1669 b,TOI-1669,Within conservative HZ flux range — stellar class unverified,500.0,1.3689253935660506,1.27,0.571
+Kepler-454 c,Kepler-454,Within conservative HZ flux range — stellar class unverified,524.19,1.4351540041067763,1.287,0.6814
+HD 147513 b,HD 147513,Within conservative HZ flux range — stellar class unverified,528.4,1.4466803559206023,1.32,0.5609
+TOI-1736 c,TOI-1736,Within conservative HZ flux range — stellar class unverified,571.25,1.5639972621492129,1.37,0.9
+WASP-47 c,WASP-47,Within conservative HZ flux range — stellar class unverified,589.57,1.614154688569473,1.393,0.549
+HD 331093 b,HD 331093,Within conservative HZ flux range — stellar class unverified,621.62,1.701902806297057,1.44,0.4895
+Kepler-68 d,Kepler-68,Within conservative HZ flux range — stellar class unverified,632.62,1.73201916495551,1.469,0.7889
+Kepler-150 f,Kepler-150,Within conservative HZ flux range — stellar class unverified,637.2093,1.7445839835728951,1.24,0.4485
+Kepler-1708 b,Kepler-1708,Within conservative HZ flux range — stellar class unverified,737.1131,2.0181056810403835,1.64,0.561
+TOI-2295 c,TOI-2295,Within conservative HZ flux range — stellar class unverified,966.5,2.646132785763176,2.018,0.5059
+HD 16175 b,HD 16175,Within conservative HZ flux range — stellar class unverified,990.0,2.7104722792607805,2.12,0.7164
+HD 141399 d,HD 141399,Within conservative HZ flux range — stellar class unverified,1069.8,2.928952772073922,2.09,0.364
+Kepler-1647 b,Kepler-1647,Within conservative HZ flux range — stellar class unverified,1107.5923,3.0324224503764547,2.7205,0.5956
+HD 163607 c,HD 163607,Within conservative HZ flux range — stellar class unverified,1272.0,3.482546201232033,2.39,0.4605
+KELT-6 c,KELT-6,Within conservative HZ flux range — stellar class unverified,1276.0,3.4934976043805612,2.39,0.5448
+HD 23596 b,HD 23596,Within conservative HZ flux range — stellar class unverified,1535.11912,4.202927091033539,2.694,0.3957
+HD 73534 b,HD 73534,Within conservative HZ flux range — stellar class unverified,1750.0,4.791238877481177,2.99,0.3721
+HD 214823 b,HD 214823,Within conservative HZ flux range — stellar class unverified,1854.84424,5.078286762491444,3.08,0.4586
+HD 103891 b,HD 103891,Within conservative HZ flux range — stellar class unverified,1919.0,5.253935660506502,3.27,0.5714
+HD 135872 b,HD 135872,Within conservative HZ flux range — stellar class unverified,2422.32597,6.63196706365503,4.172,0.4969
+HD 145934 b,HD 145934,Within conservative HZ flux range — stellar class unverified,2751.53433,7.5332904312114986,4.89,0.9461
+KIC 3526061 b,KIC 3526061,Within conservative HZ flux range — stellar class unverified,3552.0,9.724845995893224,5.14,0.6208
+Teegarden's Star b,Teegarden's Star,Within optimistic HZ only,4.90634,0.013432826830937715,0.0259,1.08
+GJ 1061 c,GJ 1061,Within optimistic HZ only,6.6821,0.018294592744695415,0.0342,1.4
+Ross 128 b,Ross 128,Within optimistic HZ only,9.8658,0.027011088295687886,0.0496,1.38
+Ross 508 b,Ross 508,Within optimistic HZ only,10.77,0.02948665297741273,0.05366,1.2464
+TOI-7166 b,TOI-7166,Within optimistic HZ only,12.92063621,0.035374774017796026,0.06191,1.07
+Wolf 1061 c,Wolf 1061,Within optimistic HZ only,17.8719,0.048930595482546205,0.089,1.3
+K2-9 b,K2-9,Within optimistic HZ only,18.4498,0.05051279945242984,0.091,1.36
+GJ 273 b,GJ 273,Within optimistic HZ only,18.6498,0.05106036960985626,0.091101,1.06
+TOI-2094 b,TOI-2094,Within optimistic HZ only,18.793193,0.051452958247775495,0.136,0.98
+L 98-59 f,L 98-59,Within optimistic HZ only,23.064,0.06314579055441479,0.1052,1.1
+K2-72 e,K2-72,Within optimistic HZ only,24.158868,0.06614337577002052,0.106,1.2
+GJ 163 c,GJ 163,Within optimistic HZ only,25.63058,0.0701727036276523,0.1254,1.2457
+TOI-700 e,TOI-700,Within optimistic HZ only,27.810124,0.07613996988364134,0.1336,1.27
+GJ 3293 b,GJ 3293,Within optimistic HZ only,30.5987,0.08377467488021903,0.14339,1.07
+TOI-1266 d,TOI-1266,Within optimistic HZ only,32.509,0.08900479123887749,0.1513,1.3
+K2-18 b,K2-18,Within optimistic HZ only,32.939623,0.09018377275838466,0.1429,1.005
+Kepler-296 e,Kepler-296,Within optimistic HZ only,34.14211,0.0934760027378508,0.169,1.41
+Kepler-438 b,Kepler-438,Within optimistic HZ only,35.23319,0.09646321697467489,0.166,1.4
+GJ 3998 d,GJ 3998,Within optimistic HZ only,41.78,0.11438740588637919,0.189,1.2
+K2-3 d,K2-3,Within optimistic HZ only,44.55603,0.12198776180698152,0.2014,1.44
+Kepler-235 e,Kepler-235,Within optimistic HZ only,46.183669,0.12644399452429844,0.213,1.33
+Kepler-155 c,Kepler-155,Within optimistic HZ only,52.661793,0.1441801314168378,0.242,1.28
+HIP 107772 b,HIP 107772,Within optimistic HZ only,55.199,0.15112662559890486,0.243,1.163
+HIP 38594 b,HIP 38594,Within optimistic HZ only,60.722,0.16624777549623546,0.256,1.3216
+Kepler-1410 b,Kepler-1410,Within optimistic HZ only,60.866168,0.16664248596851472,0.2543,1.06
+GJ 96 b,GJ 96,Within optimistic HZ only,73.94,0.20243668720054755,0.291,1.0486
+Kepler-991 b,Kepler-991,Within optimistic HZ only,82.5342519,0.22596646652977412,0.3104,1.371
+HIP 71135 b,HIP 71135,Within optimistic HZ only,87.19,0.2387132101300479,0.335,1.1013
+Kepler-1996 c,Kepler-1996,Within optimistic HZ only,92.7297248,0.25388015003422315,0.3608,1.38
+TOI-2134 c,TOI-2134,Within optimistic HZ only,95.85284,0.2624307734428474,0.3715,1.4
+Kepler-440 b,Kepler-440,Within optimistic HZ only,101.11141,0.27682795345653666,0.242,1.2
+HIP 79431 b,HIP 79431,Within optimistic HZ only,111.7,0.30581793292265574,0.36,0.2179
+HD 103949 b,HD 103949,Within optimistic HZ only,120.878,0.33094592744695417,0.439,1.3983
+Kepler-62 e,Kepler-62,Within optimistic HZ only,122.3874,0.33507843942505133,0.427,1.352
+Kepler-841 b,Kepler-841,Within optimistic HZ only,124.4198398,0.34064295633127994,0.479,1.648
+Kepler-1840 b,Kepler-1840,Within optimistic HZ only,131.1900024,0.3591786513347022,0.46206,1.3
+Kepler-1341 b,Kepler-1341,Within optimistic HZ only,132.9968322,0.364125481724846,0.47267,1.141
+Kepler-1539 b,Kepler-1539,Within optimistic HZ only,133.3036741,0.3649655690622861,0.4765,1.572
+Kepler-1362 b,Kepler-1362,Within optimistic HZ only,136.205626,0.37291068035592057,0.4626,1.011
+HD 93083 b,HD 93083,Within optimistic HZ only,144.72,0.3962217659137577,0.508,1.59
+Kepler-1038 b,Kepler-1038,Within optimistic HZ only,148.4603382,0.40646225379876794,0.5238,1.512
+TOI-756 c,TOI-756,Within optimistic HZ only,149.4,0.40903490759753597,0.439,0.24
+HD 216520 c,HD 216520,Within optimistic HZ only,154.43,0.42280629705681044,0.528,1.2669
+HD 8326 b,HD 8326,Within optimistic HZ only,158.991,0.43529363449691993,0.533,1.1342
+Kepler-1881 b,Kepler-1881,Within optimistic HZ only,159.3939972,0.43639698069815197,0.53325,1.5
+Kepler-1545 b,Kepler-1545,Within optimistic HZ only,163.692349,0.44816522655715263,0.5442,1.408
+Kepler-1701 b,Kepler-1701,Within optimistic HZ only,169.134,0.46306365503080077,0.5738,1.3
+Kepler-47 d,Kepler-47,Within optimistic HZ only,187.366,0.5129801505817934,0.6992,1.7171
+Kepler-1097 b,Kepler-1097,Within optimistic HZ only,187.747029,0.5140233511293635,0.5791,1.3
+Kepler-1606 b,Kepler-1606,Within optimistic HZ only,196.435224,0.5378103326488707,0.6421,1.29
+HD 69830 d,HD 69830,Within optimistic HZ only,197.0,0.5393566050650239,0.63,1.5182
+Kepler-967 c,Kepler-967,Within optimistic HZ only,198.7112502,0.5440417527720739,0.6253,1.05
+Kepler-725 c,Kepler-725,Within optimistic HZ only,207.541,0.5682162902121835,0.6744,1.4
+Kepler-1549 b,Kepler-1549,Within optimistic HZ only,214.886545,0.5883272963723477,0.6687,1.184
+Kepler-424 c,Kepler-424,Within optimistic HZ only,223.3,0.6113620807665983,0.73,1.3285
+HD 45364 b,HD 45364,Within optimistic HZ only,225.79,0.6181793292265572,0.6793,1.3804
+HIP 109600 b,HIP 109600,Within optimistic HZ only,232.08,0.6354004106776181,0.706,1.6736
+Kepler-1690 b,Kepler-1690,Within optimistic HZ only,234.636,0.6423983572895277,0.7097,1.2
+TOI-426 c,TOI-426,Within optimistic HZ only,235.8,0.6455852156057496,0.747,1.73
+HD 202206 b,HD 202206,Within optimistic HZ only,256.26,0.7016016427104722,0.81,1.6613
+Kepler-315 c,Kepler-315,Within optimistic HZ only,265.469335,0.7268154277891855,0.791,1.722
+TOI-4633 c,TOI-4633,Within optimistic HZ only,271.9445,0.7445434633812458,0.847,1.56
+HD 164509 b,HD 164509,Within optimistic HZ only,280.17,0.7670636550308009,0.87,1.7417
+PH2 b,PH2,Within optimistic HZ only,282.52542,0.7735124435318275,0.833,1.2
+Kepler-34 b,Kepler-34,Within optimistic HZ only,288.822,0.7907515400410677,1.0896,1.2545
+HD 92788 b,HD 92788,Within optimistic HZ only,325.803,0.892,0.97,1.1129
+Kepler-289 e,Kepler-289,Within optimistic HZ only,330.0716,0.9036867898699521,0.9342,1.58
+Kepler-1636 b,Kepler-1636,Within optimistic HZ only,425.47785,1.164894866529774,1.12191,1.217
+HIP 57274 d,HIP 57274,Within optimistic HZ only,431.7,1.1819301848049282,1.01,1.5183
+HD 4203 b,HD 4203,Within optimistic HZ only,431.88,1.1824229979466119,1.17,1.4338
+HAT-P-13 c,HAT-P-13,Within optimistic HZ only,446.27,1.2218206707734427,1.258,1.4016
+HD 44219 b,HD 44219,Within optimistic HZ only,472.0,1.2922655715263518,1.26,1.1462
+HD 137496 c,HD 137496,Within optimistic HZ only,479.9,1.3138945927446954,1.2163,1.5713
+HD 114783 b,HD 114783,Within optimistic HZ only,493.7,1.3516769336071184,1.16,0.3152
+HD 153950 b,HD 153950,Within optimistic HZ only,499.39999,1.3672826557152635,1.28,1.355
+HD 24040 c,HD 24040,Within optimistic HZ only,515.4,1.411088295687885,1.3,1.1163
+HIP 41378 f,HIP 41378,Within optimistic HZ only,542.0797,1.4841333333333333,1.394,1.24
+BEBOP-3 b,BEBOP-3,Within optimistic HZ only,547.0,1.4976043805612593,1.444,1.159
+Kepler-419 c,Kepler-419,Within optimistic HZ only,675.47,1.8493360711841205,1.68,1.8888
+HD 5388 b,HD 5388,Within optimistic HZ only,772.5,2.114989733059548,1.757,1.4901
+HD 48265 b,HD 48265,Within optimistic HZ only,778.51,2.131444216290212,1.814,1.167
+HD 156411 b,HD 156411,Within optimistic HZ only,842.2,2.305817932922656,1.88,1.5229
+HD 70573 b,HD 70573,Within optimistic HZ only,851.8,2.3321013004791236,1.76,0.3222
+Kepler-1704 b,Kepler-1704,Within optimistic HZ only,988.88112,2.707408952772074,2.027,0.342
+HD 10647 b,HD 10647,Within optimistic HZ only,989.2,2.7082819986310747,2.015,0.3471
+47 UMa b,47 UMa,Within optimistic HZ only,1078.0,2.951403148528405,2.1,0.3576
+HD 8535 b,HD 8535,Within optimistic HZ only,1313.0,3.594798083504449,2.45,0.3584
+HD 216437 b,HD 216437,Within optimistic HZ only,1359.0,3.7207392197125255,2.57,0.3389
+HD 94834 b,HD 94834,Within optimistic HZ only,1576.0,4.314852840520191,2.74,1.3107
+HD 8673 b,HD 8673,Within optimistic HZ only,1644.69097,4.50291846680356,2.97,0.3841
+HD 125390 b,HD 125390,Within optimistic HZ only,1757.39151,4.811475728952772,3.496,1.0874
+HD 95089 c,HD 95089,Within optimistic HZ only,1785.0,4.887063655030801,3.33,1.2174
+HIP 8541 b,HIP 8541,Within optimistic HZ only,1852.14387,5.0708935523613965,3.729,1.4683

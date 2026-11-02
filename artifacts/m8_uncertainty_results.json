@@ -1,0 +1,26 @@
+{
+  "project": "EXO-INSIGHT",
+  "block": 8,
+  "method": "Non-parametric bootstrap over held-out test rows",
+  "bootstrap_repetitions": 2000,
+  "random_seed": 42,
+  "test_rows": 237,
+  "positive_reference_labels": 18,
+  "negative_reference_labels": 219,
+  "observed_accuracy": 0.70042194092827,
+  "observed_balanced_accuracy": 0.8124048706240488,
+  "accuracy_bootstrap": {
+    "mean": 0.7003924050632911,
+    "ci_95_lower": 0.6413502109704642,
+    "ci_95_upper": 0.759493670886076,
+    "bootstrap_standard_deviation": 0.029826459394247353
+  },
+  "balanced_accuracy_bootstrap": {
+    "mean": 0.8126366241484236,
+    "ci_95_lower": 0.7422492718678381,
+    "ci_95_upper": 0.8640552995391705,
+    "bootstrap_standard_deviation": 0.03176486782012309
+  },
+  "balanced_accuracy_valid_resamples": 2000,
+  "limitation": "These intervals describe sampling uncertainty on this held-out test sample. The reference labels are M4 protocol-derived pseudo-labels, not independently confirmed planetary habitability or evidence of life. The small number of positive test cases limits precision, especially for balanced accuracy."
+}

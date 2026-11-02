@@ -1,0 +1,16 @@
+column,missing_count,missing_percentage,available_count
+pl_insol,596,9.24,5855
+pl_eqt,540,8.37,5911
+pl_orbsmax,495,7.67,5956
+pl_orbper,354,5.49,6097
+st_rad,332,5.15,6119
+st_teff,307,4.76,6144
+pl_rade,50,0.78,6401
+pl_bmasse,30,0.47,6421
+sy_dist,28,0.43,6423
+st_mass,9,0.14,6442
+discoverymethod,0,0.0,6451
+disc_year,0,0.0,6451
+pl_name,0,0.0,6451
+hostname,0,0.0,6451
+pl_bmassprov,0,0.0,6451

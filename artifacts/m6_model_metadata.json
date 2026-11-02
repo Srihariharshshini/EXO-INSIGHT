@@ -1,0 +1,98 @@
+{
+  "project": "EXO-INSIGHT",
+  "milestone": "M6",
+  "model": "M5 LogisticRegression sklearn Pipeline",
+  "target": "ml_target_conservative_hz",
+  "target_interpretation": "Agreement with M4 conservative HZ screening pseudo-label; not confirmed habitability or evidence of life.",
+  "features": [
+    "pl_rade",
+    "pl_bmasse",
+    "disc_year",
+    "pl_bmassprov",
+    "discoverymethod"
+  ],
+  "numeric_features": [
+    "pl_rade",
+    "pl_bmasse",
+    "disc_year"
+  ],
+  "categorical_features": [
+    "pl_bmassprov",
+    "discoverymethod"
+  ],
+  "forbidden_features": [
+    "pl_insol",
+    "st_teff",
+    "pl_eqt",
+    "pl_orbper",
+    "pl_orbsmax",
+    "hz_runaway_greenhouse_flux",
+    "hz_maximum_greenhouse_flux",
+    "hz_screening_category",
+    "insol_uncertainty_assessment"
+  ],
+  "random_state": 42,
+  "test_size": 0.2,
+  "threshold": 0.5,
+  "scikit_learn_version": "1.7.2",
+  "metrics": {
+    "rows": 1184,
+    "positive_labels": 89,
+    "negative_labels": 1095,
+    "train_rows": 947,
+    "test_rows": 237,
+    "threshold": 0.5,
+    "baseline": {
+      "accuracy": 0.9240506329113924,
+      "balanced_accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "logistic_regression": {
+      "accuracy": 0.70042194092827,
+      "balanced_accuracy": 0.8124048706240488,
+      "precision": 0.19540229885057472,
+      "recall": 0.9444444444444444,
+      "f1": 0.3238095238095238,
+      "average_precision": 0.175182492560533,
+      "confusion_matrix": [
+        [
+          149,
+          70
+        ],
+        [
+          1,
+          17
+        ]
+      ]
+    },
+    "classification_report": {
+      "0": {
+        "precision": 0.9933333333333333,
+        "recall": 0.680365296803653,
+        "f1-score": 0.8075880758807588,
+        "support": 219.0
+      },
+      "1": {
+        "precision": 0.19540229885057472,
+        "recall": 0.9444444444444444,
+        "f1-score": 0.3238095238095238,
+        "support": 18.0
+      },
+      "accuracy": 0.70042194092827,
+      "macro avg": {
+        "precision": 0.594367816091954,
+        "recall": 0.8124048706240488,
+        "f1-score": 0.5656987998451413,
+        "support": 237.0
+      },
+      "weighted avg": {
+        "precision": 0.9327309762840099,
+        "recall": 0.70042194092827,
+        "f1-score": 0.7708454010399054,
+        "support": 237.0
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+step,action,rows_before,rows_after,rows_affected
+Load source,Loaded NASA source without modifying it,6451,6451,0
+Column selection,Created working copy with available research-relevant columns,6451,6451,0
+Numeric conversion,Converted selected fields; unparseable text becomes missing,6451,6451,0
+Missing values,Retained missing values; no imputation or row deletion,6451,6451,0
+Physical screening,Flagged zero/negative values; no automatic deletion,6451,6451,0

@@ -1,0 +1,22 @@
+{
+  "m3_rows": 6451,
+  "m4_screening_rows": 6451,
+  "analysis_rows": 6451,
+  "unique_planets": 6451,
+  "review_queue_rows": 254,
+  "tier1_candidates": 62,
+  "tier2_candidates": 10,
+  "tier3_candidates": 17,
+  "tier4_candidates": 72,
+  "tier5_candidates": 93,
+  "raw_and_prior_milestone_files_overwritten": false,
+  "habitability_probability_calculated": false,
+  "plots_created": [
+    "01_habitable_zone_position.png",
+    "02_temperature_vs_insolation.png",
+    "03_mass_vs_radius.png",
+    "04_orbital_period_vs_insolation.png",
+    "05_candidate_insolation_uncertainty.png",
+    "06_discovery_trends.png"
+  ]
+}

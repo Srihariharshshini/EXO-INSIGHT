@@ -1,0 +1,91 @@
+{
+  "project": "EXO-INSIGHT",
+  "milestone": "M7",
+  "benchmark": "EXO-INSIGHT Logistic Regression vs standalone local Qwen",
+  "model": "qwen3.5:4b-q4_K_M",
+  "created_utc": "2026-11-02T15:06:23.616084+00:00",
+  "random_seed": 42,
+  "task_count": 10,
+  "reference_label_counts": {
+    "1": 5,
+    "0": 5
+  },
+  "runs_per_task": 3,
+  "total_qwen_calls": 30,
+  "qwen_valid_responses": 30,
+  "qwen_invalid_responses": 0,
+  "exo_insight": {
+    "run_accuracies": [
+      0.9,
+      0.9,
+      0.9
+    ],
+    "mean_accuracy": 0.9,
+    "accuracy_standard_deviation": 0.0,
+    "correct_predictions": 27,
+    "total_predictions": 30
+  },
+  "qwen_alone": {
+    "run_accuracies": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "mean_accuracy": 0.5,
+    "accuracy_standard_deviation": 0.0,
+    "correct_predictions": 15,
+    "total_predictions": 30,
+    "valid_response_rate": 1.0,
+    "mean_latency_seconds": 3.897718789995027,
+    "latency_standard_deviation_seconds": 4.1312382369272616
+  },
+  "failure_examples": [
+    {
+      "task_id": "HD 83443 c",
+      "run": 1,
+      "actual_label": 0,
+      "qwen_prediction": 1,
+      "raw_response": "1",
+      "error": ""
+    },
+    {
+      "task_id": "HD 103720 b",
+      "run": 1,
+      "actual_label": 0,
+      "qwen_prediction": 1,
+      "raw_response": "1",
+      "error": ""
+    },
+    {
+      "task_id": "TOI-2196 b",
+      "run": 1,
+      "actual_label": 0,
+      "qwen_prediction": 1,
+      "raw_response": "1",
+      "error": ""
+    },
+    {
+      "task_id": "Kepler-252 c",
+      "run": 1,
+      "actual_label": 0,
+      "qwen_prediction": 1,
+      "raw_response": "1",
+      "error": ""
+    },
+    {
+      "task_id": "HD 23472 e",
+      "run": 1,
+      "actual_label": 0,
+      "qwen_prediction": 1,
+      "raw_response": "1",
+      "error": ""
+    }
+  ],
+  "limitations": [
+    "Only 10 held-out cases were selected; results are an exploratory benchmark, not a population-level estimate.",
+    "The reference answers are M4 protocol-derived pseudo-labels, not confirmed habitability or evidence of life.",
+    "The Qwen-only system receives the same five features but does not receive the trained classifier's prediction.",
+    "The EXO-INSIGHT classifier is deterministic; repeated runs measure reproducibility, not independent retraining."
+  ],
+  "trace_file": "artifacts\\m7_benchmark_traces.csv"
+}

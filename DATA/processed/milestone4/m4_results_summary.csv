@@ -1,0 +1,12 @@
+metric,value
+Input planets,6451
+Rows retained,6451
+Zero-insolation records flagged,46
+Conservative HZ candidates (Class V indicated),89
+Conservative HZ flux range (stellar class unverified),72
+Optimistic HZ only,93
+ML pseudo-labels available,1184
+ML positive labels,89
+ML negative labels,1095
+Uncertainty intervals fully within conservative HZ,123
+Uncertainty intervals overlapping HZ boundary,57

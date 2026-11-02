@@ -1,0 +1,2 @@
+source_file,row_count,column_count,exact_duplicate_rows,repeated_planet_name_rows,available_planned_columns,unavailable_planned_columns,earliest_discovery_year,latest_discovery_year
+PSCompPars.csv,6451,71,0,0,15,st_lum,1992,2026
